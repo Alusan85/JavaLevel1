@@ -80,7 +80,7 @@ public class HomeWork1 {
 
     private static void whatyear(int year) {
         System.out.println(" - Проверим високосный ли год - " + year );
-        if (!(year % 4 == 0) || ((year % 100 == 0) && !(year % 400 == 0))) System.out.println(year + " год не високосный");
-        else System.out.println(year + " г. високосный");
+        if (!(year % 4 == 0) || ((year % 100 == 0) && !(year % 400 == 0))) System.out.println(year + " год  - не високосный");
+        else System.out.println("Проверяемый "+ year + " год  - високосный");
     }
 }
