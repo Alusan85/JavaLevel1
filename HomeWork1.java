@@ -1,7 +1,7 @@
 /*
- *	Ковалев Кирилл
- *	Домашнее задание к занятию 1 - Java Уровень 1
- *   13 августа 2018 года
+ * @author Kirill Kovalev
+ * @version 1 dated Aug 13, 2018
+ *	Homework 1 - Java Lesson 1
  */
 
 public class HomeWork1 {
